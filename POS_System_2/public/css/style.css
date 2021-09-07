@@ -1,0 +1,13 @@
+
+.btn-focus:focus{
+    box-shadow: none !important;  
+}
+.btn-logout{
+    background: none !important;
+    border: none;
+    offset: none;
+    outline: none;
+    box-shadow: none;
+
+
+}
