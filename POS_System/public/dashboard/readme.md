@@ -1,0 +1,1 @@
+ 1. -----style.css er "datatables_wrapper" class ta replace kora hoyese "datatables_wrapper_style_none" class e 
