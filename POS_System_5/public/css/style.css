@@ -1,0 +1,21 @@
+
+.btn-focus:focus{
+    box-shadow: none !important;  
+}
+.btn-logout{
+    background: none !important;
+    border: none;
+    offset: none;
+    outline: none;
+    box-shadow: none;
+}
+.even{
+    background-color:#f5f7ff !important;
+}
+.submit-btn, .edit-btn{
+    background: none !important;
+    border: none;
+    offset: none;
+    outline: none;
+    box-shadow: none;
+}
